@@ -1,7 +1,7 @@
 # Scrap-grading
 
 This repository contains a Steel Scrap Grading model built using a Convolutional Neural Network (CNN). The model classifies steel images into specific categories. 
-dataset: <https://aistudio.baidu.com/datasetdetail/39737>
+dataset: <https://aistudio.baidu.com/datasetdetail/39737></br>
 The available rating categories are:-30, -25, -20, -15, -10, -5, 0, 5
 
 
